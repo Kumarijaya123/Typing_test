@@ -1,0 +1,61 @@
+.section{
+    background-color: rgb(37, 34, 34);
+}
+
+h2{
+    
+    font-style: bold;
+    font-weight: 500;
+    color: rgb(159, 234, 231);
+    text-shadow: 1.5px 1.5px 3px rgba(203, 199, 199, 0.5);
+}
+
+h4{
+    font-weight: 500;
+    text-shadow: 1.5px 1.5px 3px rgba(218, 214, 214, 0.5);
+}
+
+
+.input{
+    color: rgb(52, 63, 59);
+    font-size: 20px;
+    font-weight: 600;
+    text-shadow: 1.5px 1.5px 3px rgba(183, 178, 178, 0.5);
+    text-align: center;
+}
+
+.button.is-fullwidth{
+    border-color: rgb(208, 223, 223);
+    background-color: rgb(43, 129, 155);
+    border-radius: 8px;
+    border-width: 2px;
+    box-shadow: 2px 2px 4px rgba(248, 244, 244, 0.5);
+}
+.button.is-info.is-fullwidth {
+    color: rgb(217, 241, 245); 
+    font-size: 20px;
+    font-weight: 600;
+    text-shadow: 2px 2px 4px rgba(10, 10, 10, 0.5);
+    font-family:Arial, Helvetica, sans-serif;
+    font-stretch: expanded;
+  }
+
+  .card{
+    background-color: rgb(226, 223, 223);
+    border-radius: 6px;
+    box-shadow: 2px 2px 4px rgba(248, 244, 244, 0.5);
+  }
+
+  .card-content{
+    padding: 40px;
+
+  }
+
+  .content{
+    text-align: center;
+    text-shadow: 1.5px 1.5px 3px rgba(183, 178, 178, 0.5);
+    font-size: 25px;
+    font-weight: 650;
+
+  }
+  
